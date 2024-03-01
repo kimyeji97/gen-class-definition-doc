@@ -1,0 +1,45 @@
+
+## Global Settings
+**/.classpath
+**/.project
+**/.settings/
+**/.pmd
+**/.DS_Store
+**/build/**
+
+*.lock
+*.bin
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/.gradle/
+/bin/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+.pmd
+
+# ignore IntelliJ project files.
+/.idea/
+**/*.iml
+
+# Maven target
+target/
+**/target/
+
+## Gradle target
+build/
+**/build/
+*.class
+
+# /caims-base/build/
+/grok-pattern/
+/files/lineup_template.xlsx
+/files/lineup_template.xlsx
+
+/output/javadoc.log
